@@ -4,6 +4,6 @@ In [20_newsgroups_SVM.ipynb](https://github.com/GwenTsang/SVM/blob/main/20_newsg
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GwenTsang/SVM/blob/main/20_newsgroups_SVM.ipynb)
 
-### To Do
+### To do list
 
-Try stemming with [`snowball`](https://github.com/shibukawa/snowball_py)
+Try stemming with [`snowball`](https://github.com/shibukawa/snowball_py) or with [`https://github.com/anishLearnsToCode/porter-stemmer`](https://github.com/anishLearnsToCode/porter-stemmer)
