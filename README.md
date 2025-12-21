@@ -6,4 +6,4 @@ In [20_newsgroups_SVM.ipynb](https://github.com/GwenTsang/SVM/blob/main/20_newsg
 
 ### To do list
 
-Try stemming with [`snowball`](https://github.com/shibukawa/snowball_py) or with [`https://github.com/anishLearnsToCode/porter-stemmer`](https://github.com/anishLearnsToCode/porter-stemmer)
+Try stemming with [`snowball`](https://github.com/shibukawa/snowball_py) or with [Porter](https://github.com/anishLearnsToCode/porter-stemmer)
